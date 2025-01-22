@@ -25,7 +25,7 @@
  * It has features like acousticness, energy, loudness and danceability which make the clustering algorithm work more effectively.
  
  
-# 💥LIBRARIES USED :
+# LIBRARIES USED :
   * OpenCV.
   * Tensorflow and Keras.
   * Sklearn.
